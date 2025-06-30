@@ -1,1 +1,1 @@
-print("welcome to git lab")
+print("welcome git")
